@@ -12,14 +12,15 @@ The only requirement is Python 3.x and the CSV module, which comes pre-installed
 
 ### Installing
 
-Clone the repository to your local machine: git clone git@github.com:pawaspy/Spotify.git
+Clone the repository to your local machine: 
 
+- `git clone git@github.com:pawaspy/Spotify.git`
 
 ## Usage
 
 Run the script with Python:
 
-python spotify.py
+- `python spotify.py`
 
 ## Functions
 
