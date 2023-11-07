@@ -6,7 +6,7 @@ This Python script performs several operations on a CSV file containing Spotify 
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
-### Prerequisites
+### Prerequisites.
 
 The only requirement is Python 3.x and the CSV module, which comes pre-installed with Python.
 
